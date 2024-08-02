@@ -8,7 +8,7 @@
 
 ## About
 
-This repository contains the slides and information associated with Bhavesh Patel's presentation at the FORCE11 Annual Conference - FORCE2024 called "Making FAIR Fair to the Researchers". He will be presenting about our lessons learned for making FAIR more fair to the researchers' time and effort.
+This repository contains the slides and information associated with Bhavesh Patel's presentation at the FORCE11 Annual Conference (FORCE2024) called "Making FAIR Fair to the Researchers". He will be presenting about our lessons learned for making FAIR more fair to the researchers' time and effort.
 
 ## Schedule
 
