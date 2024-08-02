@@ -25,6 +25,7 @@ This repository contains the material and information associated with Bhavesh Pa
 
 ## Meeting material
 - [FAIRfair-FORCE2024-Patel.pdf](FAIRfair-FORCE2024-Patel.pdf): slides of the talk
+- Also available on Zenodo: https://doir.org/10.5281/zenodo.13159874
 
 ## Resources
 
