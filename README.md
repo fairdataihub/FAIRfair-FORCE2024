@@ -4,11 +4,11 @@
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 
-# Repository of the material for FORCE11 Annual Conference - FORCE2024(August 1-3 2024)
+# Repository of the slides for the FORCE11 Annual Conference - FORCE2024 (August 1-3 2024)
 
 ## About
 
-This repository contains the material and information associated with Bhavesh Patel's presentation at the FORCE11 Annual Conference - FORCE2024. He will be presenting about our lessons learned for making FAIR fair to the researchers.
+This repository contains the slides and information associated with Bhavesh Patel's presentation at the FORCE11 Annual Conference - FORCE2024 called "Making FAIR Fair to the Researchers". He will be presenting about our lessons learned for making FAIR more fair to the researchers' time and effort.
 
 ## Schedule
 
