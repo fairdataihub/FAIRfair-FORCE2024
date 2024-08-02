@@ -38,6 +38,7 @@ We list here major resources relevant to the talk.
 | Repository of SODA             | https://github.com/fairdataihub/SODA-for-SPARC|
 | SODA documentation  | https://docs.sodaforsparc.io |
 | SPARC data curation and sharing guidelines  | https://docs.sparc.science/docs/data-submission-walkthrough |
+| SPARC Data Structure (SDS)  | https://doi.org/10.1101/2021.02.10.430563 |
 | FAIR-BioRS guidelines                           | https://fair-biors.org/ |
 | FAIR-BioRS guidelines manuscript                          | https://doi.org/10.1038/s41597-023-02463-x |
 | FAIR4RS principles                          | https://doi.org/10.15497/RDA00068 |
