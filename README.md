@@ -16,6 +16,12 @@ This repository contains the material and information associated with Bhavesh Pa
 | --------------- | -----------------|--------------------------------- |------------------------------------------------------ |------------------- |
 | Talk      |  Friday, August 2, 2024, at 11:00 am PDT | Bhavesh Patel (presenter)|  Young Research Library - Main Conference Room | https://force11.org/conference/post/force2024-schedule/
 
+<p align="center">
+  <img src="force2024-patel.png" alt="interface" width="600">
+  <br/>
+  </img>
+</p>
+
 
 ## Meeting material
 - [FAIRfair-FORCE2024-Patel.pdf](FAIRfair-FORCE2024-Patel.pdf): slides of the talk
